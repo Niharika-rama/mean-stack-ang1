@@ -1,1 +1,3 @@
-# mean-stack-ang1
+# MEAN stack app
+
+MEAN stack application 
